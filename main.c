@@ -14,7 +14,6 @@ int main(void) {
   
   double gra = atof(let);
   
-
   if (gra >= 93.0 ){
     char *letter = "A";
     printf("Your letter grade for CMPSC 131 is %s.\n",letter);
@@ -52,8 +51,5 @@ int main(void) {
     printf("Your letter grade for CMPSC 131 is %s.\n",letter);
   }
   
-//printf("Your letter grade for CMPSC 131 is %s.\n",letter);
-
 return 0;
-
 }
